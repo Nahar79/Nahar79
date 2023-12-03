@@ -1,6 +1,6 @@
 # 💫 About Me:
 - 👋 Hi, I’m Zesmin Nahar
-- 👀 I’m interested in Big Data Engineering and Data Science Technology 
+- 👀 I’m interested in Data Analysis, Big Data Engineering and Data Science Technology 
 - 🌱 I’m currently learning applied Data Science with Python, Big Data Engineering, Advance SQL, ETL, ELT 
 - 💞️ I’m looking to collaborate on Data Base Research 
 - 📫  To reach me follow the socials 
